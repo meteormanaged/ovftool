@@ -1,0 +1,5 @@
+# ovftool
+
+Simple tool that wraps the VMware OVFTool in a docker container.  
+
+Pass variables to the commnand and execute.
